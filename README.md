@@ -1,5 +1,5 @@
 # Automated-Hate-Speech-Detection-on-Twitter
-This Project detects top words that promote hate speech in tweets regarding sensitive topics using natural language processing techniques.
+This Project detects top words that promote hate speech in tweets regarding sensitive topics using natural language processing.
 
 In this work, to identify the tweets that generate hate speech from the tweets fetched for a
 particular keyword,we studied an approach in which after preprocessing of tweets fetched
